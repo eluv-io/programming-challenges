@@ -1,0 +1,11 @@
+{
+  "name": "parallel-queries",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "url-join": "^4.0.1",
+    "uuid": "^3.3.3"
+  }
+}
