@@ -1,3 +1,3 @@
 ### Programming Challenges
 
-This repo contains Programming Challenges for candidates applying ot engineering positions at Eluvio.
+This repo contains Programming Challenges for candidates applying to engineering positions at Eluvio.
